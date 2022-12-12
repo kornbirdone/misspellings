@@ -43,3 +43,39 @@ These are misspellings that are not commonly made, but I still find people who c
 8. Tomato
 9. Brocoli
 10. Salad
+11. Aikorn
+12. Slnrok
+13. Fridge
+
+## Chapter V: Rare Misspellings
+These spellings are the rarest, if ever done, misspellings. But hey, better safe than sorry!
+
+1. Michael
+2. MicChi
+3. Satera
+4. Atgrey
+5. Panda
+6. DiTunes
+7. A red skeleton with a flaming head who is in love with carrots
+8. Rick Astley
+9. Pneumonoultramicroscopicsilicovolcanoconiosis
+10. Andrew
+11. The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.
+12. Red
+13. Orange
+14. Yellow
+15. Green
+16. Blue
+17. Indigo
+18. Purple
+19. Boiled Eggs
+20. Blue Pen
+21. ⠀
+22. Never
+23. Gonna
+24. Give
+25. You
+26. Up
+
+## Chapter VI: About the Author
+Korn is a human living on Earth. He wrote this document. That's it.
