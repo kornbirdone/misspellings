@@ -32,3 +32,14 @@ Here are common misspellings people make upon contacting me:
 
 ## Chapter IV: Uncommon Misspellings
 These are misspellings that are not commonly made, but I still find people who calls, or called me by these names.
+
+1. Frog King
+2. Bark
+3. Coriander
+4. Eggplant
+5. Cucumber
+6. Onion
+7. Pumpkin
+8. Tomato
+9. Brocoli
+10. Salad
