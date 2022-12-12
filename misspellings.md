@@ -29,6 +29,9 @@ Here are common misspellings people make upon contacting me:
 18. I like biting people
 19. Nark
 20. Frog
+21. Popcorn
+22. 🌽
+23. 🍿
 
 ## Chapter IV: Uncommon Misspellings
 These are misspellings that are not commonly made, but I still find people who calls, or called me by these names.
