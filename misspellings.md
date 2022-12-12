@@ -76,6 +76,7 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 24. Give
 25. You
 26. Up
+27. KwithanORandNLS(notthevegetable)
 
 ## Chapter VI: About the Author
 Korn is a human living on Earth. He wrote this document. That's it.
