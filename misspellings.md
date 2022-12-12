@@ -32,6 +32,11 @@ Here are common misspellings people make upon contacting me:
 21. Popcorn
 22. 🌽
 23. 🍿
+24. Fern
+25. Grass
+26. Mushroom
+27. Bean
+28. Beansprout
 
 ## Chapter IV: Uncommon Misspellings
 These are misspellings that are not commonly made, but I still find people who calls, or called me by these names.
