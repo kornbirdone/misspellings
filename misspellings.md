@@ -41,6 +41,12 @@ Here are common misspellings people make upon contacting me:
 30. Gina
 31. Gian
 32. Kevin
+33. Bird
+34. KornBirdTwo
+35. CornBirdOne
+36. CornBirdTwo
+37. CornBird
+38. Corndog
 
 ## Chapter IV: Uncommon Misspellings
 These are misspellings that are not commonly made, but I still find people who calls, or called me by these names.
@@ -74,7 +80,7 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 8. Rick Astley
 9. Pneumonoultramicroscopicsilicovolcanoconiosis
 10. Andrew
-11. Timothy
+11. Raincoat
 12. The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.
 13. Red
 14. Orange
@@ -94,6 +100,7 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 28. KwithanORandNLS(notthevegetable)
 29. Vaibhav
 30. That's Going In
+31. Pneumonoultramicroscopicsilicovolcanoconiosis (again)
 
 ## Chapter VI: About the Author
 Korn is a human living on Earth. He wrote this document. That's it.
