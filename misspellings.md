@@ -4,7 +4,7 @@
 Hello, and my name is Korn. This online document will list the common misspellings people make upon communicating with me, whether in real life, or in social media platforms. The next time you chat with me after reading this, PLEASE, call my name correctly as I get easily offended by these misspellings.
 
 ## Chapter II: Correct Spellings
-The only correct spelling of my name is Korn. However, my online presence bears the name of KornLS. The LS comes from my company's name: Larry Studios. Feel free to call me by, and ONLY by these two aliases.
+The only correct spelling of my name is Korn. However, my online presence bears the name of KornBirdOne, ~~previously KornLS~~. "BirdOne" is the current company I'm working at, ~~while the LS comes from my old company's name: Larry Studios~~. Feel free to call me by, and ONLY by these two aliases.
 
 ## Chapter III: Common Misspellings
 Here are common misspellings people make upon contacting me:
