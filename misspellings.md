@@ -101,6 +101,9 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 29. Vaibhav
 30. That's Going In
 31. Pneumonoultramicroscopicsilicovolcanoconiosis (again)
+32. KwithanORandNfolllowedbyTheNameofTheAnimalThatFliesandLaysEggsinTheirNestandfollowdbytheFirstPositiveInteger
+33. Danunai
+34. This is an actual call for help guys, if you are reading this I am trapped in a cave, I don't know how I got here but the last thing I remember was when I was taking a ferry through the river but then something attacked me from behind and I lost conciousness, I am trapped here without food and an animal might attack me at any time, please help me I am
 
 ## Chapter VI: About the Author
 Korn is a human living on Earth. He wrote this document. That's it.
