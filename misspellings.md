@@ -47,6 +47,8 @@ Here are common misspellings people make upon contacting me:
 36. CornBirdTwo
 37. CornBird
 38. Corndog
+39. Cornwall
+40. Colonel Cornelius Cornwall
 
 ## Chapter IV: Uncommon Misspellings
 These are misspellings that are not commonly made, but I still find people who calls, or called me by these names.
