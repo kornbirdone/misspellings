@@ -101,18 +101,19 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 27. Pineapple Pen
 28. Pen Pineapple Apple Pen
 29. ⠀
-30. Never
-31. Gonna
-32. Give
-33. You
-34. Up
-35. KwithanORandNLS(notthevegetable)
-36. Vaibhav
-37. That's Going In
-38. Pneumonoultramicroscopicsilicovolcanoconiosis (again)
-39. KwithanORandNfolllowedbyTheNameofTheAnimalThatFliesandLaysEggsinTheirNestandfollowdbytheFirstPositiveInteger
-40. Danunai
-41. This is an actual call for help guys, if you are reading this I am trapped in a cave, I don't know how I got here but the last thing I remember was when I was taking a ferry through the river but then something attacked me from behind and I lost conciousness, I am trapped here without food and an animal might attack me at any time, please help me I am
+30. Yes, number 29 was a blank character
+31. Never
+32. Gonna
+33. Give
+34. You
+35. Up
+36. KwithanORandNLS(notthevegetable)
+37. Vaibhav
+38. That's Going In
+39. Pneumonoultramicroscopicsilicovolcanoconiosis (again)
+40. KwithanORandNfolllowedbyTheNameofTheAnimalThatFliesandLaysEggsinTheirNestandfollowdbytheFirstPositiveInteger
+41. Danunai
+42. This is an actual call for help guys, if you are reading this I am trapped in a cave, I don't know how I got here but the last thing I remember was when I was taking a ferry through the river but then something attacked me from behind and I lost conciousness, I am trapped here without food and an animal might attack me at any time, please help me I am
 
 ## Chapter VI: About the Author
 Korn is a human living on Earth. He wrote this document. That's it.
