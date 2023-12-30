@@ -93,19 +93,26 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 19. Purple
 20. Boiled Eggs
 21. Blue Pen
-22. ⠀
-23. Never
-24. Gonna
-25. Give
-26. You
-27. Up
-28. KwithanORandNLS(notthevegetable)
-29. Vaibhav
-30. That's Going In
-31. Pneumonoultramicroscopicsilicovolcanoconiosis (again)
-32. KwithanORandNfolllowedbyTheNameofTheAnimalThatFliesandLaysEggsinTheirNestandfollowdbytheFirstPositiveInteger
-33. Danunai
-34. This is an actual call for help guys, if you are reading this I am trapped in a cave, I don't know how I got here but the last thing I remember was when I was taking a ferry through the river but then something attacked me from behind and I lost conciousness, I am trapped here without food and an animal might attack me at any time, please help me I am
+22. Red Pen
+23. Purple Pen
+24. Pen
+25. Pen...?
+26. Apple Pen
+27. Pineapple Pen
+28. Pen Pineapple Apple Pen
+29. ⠀
+30. Never
+31. Gonna
+32. Give
+33. You
+34. Up
+35. KwithanORandNLS(notthevegetable)
+36. Vaibhav
+37. That's Going In
+38. Pneumonoultramicroscopicsilicovolcanoconiosis (again)
+39. KwithanORandNfolllowedbyTheNameofTheAnimalThatFliesandLaysEggsinTheirNestandfollowdbytheFirstPositiveInteger
+40. Danunai
+41. This is an actual call for help guys, if you are reading this I am trapped in a cave, I don't know how I got here but the last thing I remember was when I was taking a ferry through the river but then something attacked me from behind and I lost conciousness, I am trapped here without food and an animal might attack me at any time, please help me I am
 
 ## Chapter VI: About the Author
 Korn is a human living on Earth. He wrote this document. That's it.
