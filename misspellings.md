@@ -10,45 +10,52 @@ The only correct spelling of my name is Korn. However, my online presence bears 
 Here are common misspellings people make upon contacting me:
 
 1. Corn
-2. Qorn
-3. Nork
-4. Nrok
-5. Kornis
-6. Korm
-7. Koran
-8. Korean
-9. Karen
-10. CornLS
-11. Lettuce
-12. Cabbage
-13. Horn
-14. Unikorn
-15. Unicorn
-16. NorkVPN
-17. Kornopoly
-18. I like biting people
-19. Nark
-20. Frog
-21. Popcorn
-22. 🌽
-23. 🍿
-24. Fern
-25. Grass
-26. Mushroom
-27. Bean
-28. Beansprout
-29. Gorn
-30. Gina
-31. Gian
-32. Kevin
-33. Bird
-34. KornBirdTwo
-35. CornBirdOne
-36. CornBirdTwo
-37. CornBird
-38. Corndog
-39. Cornwall
-40. Colonel Cornelius Cornwall
+2. Cron
+3. Qorn
+4. Qron
+5. Norc
+6. Norq
+7. Nroq
+8. Nroc
+9. Noc
+10. Nork
+11. Nrok
+12. Kornis
+13. Korm
+14. Koran
+15. Korean
+16. Karen
+17. CornLS
+18. Lettuce
+19. Cabbage
+20. Horn
+21. Unikorn
+22. Unicorn
+23. NorkVPN
+24. Kornopoly
+25. I like biting people
+26. Nark
+27. Frog
+28. Popcorn
+29. 🌽
+30. 🍿
+31. Fern
+32. Grass
+33. Mushroom
+34. Bean
+35. Beansprout
+36. Gorn
+37. Gina
+38. Gian
+39. Kevin
+40. Bird
+41. KornBirdTwo
+42. CornBirdOne
+43. CornBirdTwo
+44. CornBird
+45. Corndog
+46. Cornwall
+47. Colonel Cornelius Cornwall
 
 ## Chapter IV: Uncommon Misspellings
 These are misspellings that are not commonly made, but I still find people who calls, or called me by these names.
