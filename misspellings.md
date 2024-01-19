@@ -125,6 +125,14 @@ These spellings are the rarest, if ever done, misspellings. But hey, better safe
 43. BirdOne former CEO
 44. BirdOne current CEO
 45. BirdOne
+46. Guy with blue glasses
+47. Guy with black glasses
+48. Guy with red glasses
+49. Guy with brown glasses
+50. Guy with rainbow glasses
+51. Guy with NO glasses
+52. Now that I think about it this section seems to be getting really long
+53. A fellow human
 
 ## Chapter VI: About the Author
 Korn is a human living on Earth. He wrote this document. That's it.
