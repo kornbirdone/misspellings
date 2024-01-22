@@ -76,6 +76,9 @@ These are misspellings that are not commonly made, but I still find people who c
 14. Corntopus
 15. Cornfield
 16. Chicken
+17. Thailand Guy
+18. Thai Guy
+
 
 ## Chapter V: Rare Misspellings
 These spellings are the rarest, if ever done, misspellings. But hey, better safe than sorry!
